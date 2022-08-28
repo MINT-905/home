@@ -18,3 +18,9 @@ header{
 	position: fixed;
 	background-color: #707070;
 }
+.long{
+	width: 300px;
+}
+.not{
+	width: 1000
+}
