@@ -24,3 +24,9 @@ header{
 .not{
 	width: 1000
 }
+.blue{
+	font-color: blue;
+}
+.red{
+	font-color: red;
+}
